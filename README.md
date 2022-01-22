@@ -13,7 +13,7 @@
 
 <!-- <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" /> -->
 
-- Reaching **notdu.com**
+- Now you see me at **notdu.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
