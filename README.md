@@ -1,5 +1,6 @@
 <h1>Dự - Software Engineer 
 <!--   <img src="https://komarev.com/ghpvc/?username=notdu" alt="notdu" /> -->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234FA3E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </h1> 
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duyet) -->
