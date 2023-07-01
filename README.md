@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://notdu.com">
-  <img  src="https://github.com/notdu/notdu/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -46,21 +46,21 @@
       <br/>
       <a href="https://www.linkedin.com/in/huudutg/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="notdu" height="30"/></a>
       <a href="https://fb.com/huudutg" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="notdu" height="30"/></a>
       <a href="mailto:huudutg@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="notdu" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://instagram.com/du.uuh" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="notdu" height="30"/></a>
       <a href="https://twitter.com/huudutg" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="notdu" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
@@ -82,7 +82,7 @@
   </p>
   <p align="center">
   <a href="github.com/notdu" target="blank"><img align="center" 
-     src="https://github.com/notdu/notdu/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+     src="https://github.com/1999azzar/1999azzar/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
