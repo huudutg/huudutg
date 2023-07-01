@@ -1,20 +1,3 @@
-<h1>Dự - Software Engineer 
-<!--   <img src="https://komarev.com/ghpvc/?username=notdu" alt="notdu" /> -->
-  
-</h1> 
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duyet) -->
-
-
-|                                                                                                                     |                                                               |                                                                |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-| [Click me 👍](https://poll.fizzy.wtf/vote?du.vote=yes&redirect=https://github.com/notdu) | ![](https://poll.fizzy.wtf/show?du.vote=yes) | ![](https://poll.fizzy.wtf/count?du.vote=yes) |
-
-
-
-<!-- <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" /> -->
-
-- Now you see me at **[notdu.com](https://notdu.com)**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -27,7 +10,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/notdu/notdu/blob/main/resources/img/waving.gif">, I'm June</h1>
-<h4 align="center">a software engineering at Fossil, see my <a href="https://notdu.com" target="_blank">resume</a> for more</h4>
+<h4 align="center">a software engineering at Fossil, see my <a href="https://notdu.com" target="_blank">notdu.com</a> for more</h4>
 </div>
 
 <div align="center">
@@ -35,10 +18,13 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+|                                                                                                                     |                                                               |                                                                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
+| [Click me 👍](https://poll.fizzy.wtf/vote?du.vote=yes&redirect=https://github.com/notdu) | ![](https://poll.fizzy.wtf/show?du.vote=yes) | ![](https://poll.fizzy.wtf/count?du.vote=yes) |
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
