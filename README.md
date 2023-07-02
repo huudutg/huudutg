@@ -1,5 +1,8 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm June</h1>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer+@Fossil;Now+you+see+me+at+notdu.com" /></a>
+</p>  
 <h4 align="center">a software engineer at Fossil, see me at <a href="https://notdu.com" target="_blank">notdu.com</a> for more</h4>
 </div>
 
@@ -115,7 +118,7 @@
 
 <a href="https://github.com/casdoor/casdoor">Casdoor  <img src="https://img.shields.io/github/stars/casdoor/casdoor.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/casdoor/casdoor-go-sdk">Tool-X  <img src="https://img.shields.io/github/stars/casdoor/casdoor-go-sdk.svg?style=social&label=Star&maxAge=2592000"> </a>
+<a href="https://github.com/casdoor/casdoor-go-sdk">Tool-X<img src="https://img.shields.io/github/stars/casdoor/casdoor-go-sdk.svg?style=social&label=Star&maxAge=2592000"> </a>
 
 -----
 Credits: [notdu](https://github.com/notdu)
