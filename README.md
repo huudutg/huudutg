@@ -118,7 +118,7 @@
 
 <a href="https://github.com/casdoor/casdoor">Casdoor  <img src="https://img.shields.io/github/stars/casdoor/casdoor.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/casdoor/casdoor-go-sdk">Tool-X<img src="https://img.shields.io/github/stars/casdoor/casdoor-go-sdk.svg?style=social&label=Star&maxAge=2592000"> </a>
+<a href="https://github.com/casdoor/casdoor-go-sdk">casdoor-go-sdk  <img src="https://img.shields.io/github/stars/casdoor/casdoor-go-sdk.svg?style=social&label=Star&maxAge=2592000"> </a>
 
 -----
 Credits: [notdu](https://github.com/notdu)
