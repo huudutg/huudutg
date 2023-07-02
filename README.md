@@ -103,8 +103,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/notdu/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=notdu&show_icons=true&theme=radical&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=notdu&theme=radical&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=notdu&show_icons=true&theme=tokyonight&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=notdu&theme=tokyonight&hide_border=true" />
           </a>
        </p>
      <br>
