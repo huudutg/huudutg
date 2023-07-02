@@ -87,14 +87,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/notdu/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdu&langs_count=6&theme=radical&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdu&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
           alt="notdu :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/notdu/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notdu&theme=radical&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notdu&theme=tokyonight&layout=compact&hide_border=true"
           alt="notdu :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notdu&theme=radical&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notdu&theme=tokyonight&layout=compact&hide_border=true"
           alt="notdu :: Top Langs by commit" />
           </a>
         </p>
