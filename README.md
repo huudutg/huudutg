@@ -12,6 +12,7 @@
        alt="snake" /></a>
 </div>
 
+|                                                                                                                     |                                                               |                                                                |
 | [Click me 👍](https://poll.fizzy.wtf/vote?du.vote=yes&redirect=https://github.com/notdu) | ![](https://poll.fizzy.wtf/show?du.vote=yes) | ![](https://poll.fizzy.wtf/count?du.vote=yes) |
 
 -----
