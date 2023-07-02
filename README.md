@@ -87,14 +87,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/notdu/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdu&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdu&langs_count=6&theme=radical&layout=compact&hide_border=true"
           alt="notdu :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/notdu/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notdu&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notdu&theme=radical&layout=compact&hide_border=true"
           alt="notdu :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notdu&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notdu&theme=radical&layout=compact&hide_border=true"
           alt="notdu :: Top Langs by commit" />
           </a>
         </p>
@@ -103,8 +103,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/notdu/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=notdu&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=notdu&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=notdu&show_icons=true&theme=radical&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=notdu&theme=radical&hide_border=true" />
           </a>
        </p>
      <br>
