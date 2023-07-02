@@ -12,12 +12,33 @@
        alt="snake" /></a>
 </div>
 
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-| [Click me 👍](https://poll.fizzy.wtf/vote?du.vote=yes&redirect=https://github.com/notdu) | ![](https://poll.fizzy.wtf/show?du.vote=yes) | ![](https://poll.fizzy.wtf/count?du.vote=yes) |
+<div align="center">
+  <p>
+    <table>
+      <tr>
+        <td>
+          <img src="https://komarev.com/ghpvc/?username=notdu" />
+        </td>
+        <td>
+          <a href="https://poll.fizzy.wtf/vote?du.vote=yes&redirect=https://github.com/notdu">
+            Click here 👍
+          </a>
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/show?du.vote=yes" />
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/count?du.vote=yes" />
+        </td>
+      </tr>
+    </table>
+  </p>
+</div>
+
 
 -----
 <details>
-  <summary>☎️ Contact me</summary>
+  <summary><h3>☎️ Contact me</h3></summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -46,44 +67,12 @@
 </div>
 </details>
 
-<details>
-  <summary>🧮 About</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/notdu" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=notdu&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://notdu.com"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnotdu.com" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/notdu" target="blank"><img align="center" 
-     src="https://github.com/1999azzar/1999azzar/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/notdu" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/notdu/notdu?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/notdu"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+<details open> 
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
+    <details>
+  <summary>Languages</summary>
             <p align="center">
         <a href="https://github.com/notdu/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notdu&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
@@ -99,7 +88,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary>stasistic</summary>
         <p align="center">
           <a href="https://github.com/notdu/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=notdu&show_icons=true&theme=tokyonight&hide_border=true" />
