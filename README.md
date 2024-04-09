@@ -6,11 +6,11 @@
 <h4 align="center">a software engineer at Fossil, see me at <a href="https://notdu.com" target="_blank">notdu.com</a> for more</h4>
 </div>
 
-<div align="center">
-  <a href="https://notdu.com">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+#<div align="center">
+#  <a href="https://notdu.com">
+#  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+#       alt="snake" /></a>
+#</div>
 
 <div align="center">
   <p>
