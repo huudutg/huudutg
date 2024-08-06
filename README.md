@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm June</h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer+@Fossil;Now+you+see+me+at+notdu.com" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer+@+Cake;Now+you+see+me+at+notdu.com" /></a>
 </p>  
 <h4 align="center">a software engineer at Cake, see me at <a href="https://notdu.com" target="_blank">notdu.com</a> for more</h4>
 </div>
